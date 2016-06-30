@@ -1,0 +1,14 @@
+layout_spectrum: 0.5430809801910073
+typography_spectrum: 0.8715043631382287
+color:
+  brandStrength: 0.12273970479145646
+  lightness: 0.9974886181298643
+  saturation: 0.6396260228939354
+  rhythmicContrast: 0.5855120453052223
+  brandColors:
+    - '#9D2D3C'
+    - '#DDE4DD'
+    - '#BCAB47'
+    - '#6B574B'
+    - '#160600'
+name: SealVac
